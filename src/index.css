@@ -2,10 +2,18 @@
   display: flex;
   justify-content: space-between;
   align-items:center ;
-  background-color: aquamarine;
-  max-width: 150vh;
-  padding: 30px;
-  margin: 50px;
+  background-color: rgba(246, 255, 127, 0.517);
+  max-width: 150rem;
+  padding: 10px;
+  margin: 10px;
+}
+.logo-h1{
+  display: flex;
+}
+.h1{
+  font-size: 50px;
+  font-size: georgia, sans-serif, arial;
+  
 }
 
 .desc{
@@ -15,4 +23,42 @@
 .bi bi-cart3{
   font-size: 8rem;
 }
+.logo{
+  display: flex;
+}
+.imglogo{
+  width: 50px;
+  border-radius: 20px;
+  
+}
+.catalogo{
+  display: flex;
+  flex-direction: row;
+  
 
+}
+
+ .card-footer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn-send{
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  margin: 1.5rem;
+} 
+.card1{
+  width: 10rem;
+}
+
+ .cart-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  margin: 10rem;
+} 

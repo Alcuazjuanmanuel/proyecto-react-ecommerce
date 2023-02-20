@@ -1,0 +1,46 @@
+[
+    {
+      
+      "id": 1,
+      "name": "Vodka",
+      "price": 1000,
+      "img":"./src/assets/bebida1.png",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "stock": 60,
+      "category": "Bebidas con alcohol"
+    },
+    {
+      "id": 2,
+      "name": "Fernet",
+      "price": 1500,
+      "img":"./src/assets/bebida2.png",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+      "stock": 75,
+      "category": "Bebidas con alcohol"
+    },
+    {
+      "id": 3,
+      "name": "Margaritha",
+      "price": 850,
+      "img":"./src/assets/bebida3.png",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+      "stock": 300,
+      "category": "Bebidas sin alcohol"
+    },
+    {
+      "id": 4,
+      "name": "PinkLemon",
+      "price": 750,
+      "img":"./src/assets/bebida4.png",
+      "description":
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "stock": 50,
+      "category": "Bebidas sin alcohol"
+    }
+   
+
+
+  ]
